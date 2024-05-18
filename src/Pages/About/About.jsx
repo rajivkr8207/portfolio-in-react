@@ -15,7 +15,7 @@ const About = () => {
             and React, is on a journey to master full-stack development.
             </span> <br />
             <span>
-            Currently, he's expanding his skills with Node.js. With a passion
+            Currently, he's expanding his skills with django. With a passion
             for innovation and learning, Rajiv creates dynamic digital
             experiences while constantly striving to enhance his expertise.
             </span>
